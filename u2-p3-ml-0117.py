@@ -15,3 +15,4 @@ arre = arre.reshape(3, 3)
 
 print("Ejercicio 2:")
 print(arre)
+print("Matias Lopez NC 0117")
